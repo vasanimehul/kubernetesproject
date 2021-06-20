@@ -1,5 +1,5 @@
 FROM centos:latest
-MAINTAINER mehulvasani
+MAINTAINER mehulvasani and mehul makawana
 RUN yum install -y httpd \
   zip \
  unzip 
